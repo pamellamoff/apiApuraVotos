@@ -17,6 +17,7 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 
 - [JavaScript](https://nodejs.org/en/)
 - [Express](https://firebase.google.com/)
+- [NodeJS](https://nodejs.org/en/)
 
 
 ## 💻 Instalações Iniciais
@@ -48,7 +49,7 @@ Abra o projeto em uma IDE de sua preferencia, indico que o faça pelo *Visual St
 
 ```bash
 # Instalar as dependências
-$ npm
+$ npm init -y
 
 # Iniciar o projeto
 $ npm start
